@@ -12,8 +12,11 @@ public class App
 
         int commit2 = 2;
 
+        int commit3  =2;
+
         System.out.println(commit1);
         System.out.println(commit2);
+        System.out.println(commit3);
         System.out.println( "Hello World!" );
     }
 }
